@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ByAhmadWalid&label=Profile+Views)
 
-# Hi, I'm Fadi Hattab 👋
+# Hi, I'm Ahmad Walid 👋
 
-## AWS Solutions Architect | Full Stack Developer | IT Trainer
+## Mobile Apps Developer | Flutter Developer | Computer Science Graduate
 
 ## Tech Stack
 
