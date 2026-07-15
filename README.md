@@ -71,12 +71,12 @@
 </div>
 
 - ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight) 
-![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByAmadWalid&show_icons=true&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com?user=ByAmadWalid&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihattab&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByAmadWalid&layout=compact&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fadihattab&theme=tokyo-night)](https://github.com/fadihattab)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByAmadWalid&theme=tokyo-night)](https://github.com/ByAmadWalid)
 
 ---
 
