@@ -70,7 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-###
 - ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)
