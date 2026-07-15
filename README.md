@@ -85,6 +85,8 @@
 
 - LinkedIn: https://www.linkedin.com/in/ahmadwalidofficial/
 - Website: https://yourwebsite.com
+- Email: ahmadwalidalshatarat@gmail.com
+  
 
 ## Featured Projects
 
