@@ -2,8 +2,6 @@
 
 # Hi, I'm Ahmad Walid 👋
 
-<h1 data-importer="text" align="left">Hey 👋 I'm Ahmad Walid</h1>
-
 ###
 
 <h3 data-importer="text" align="left">Junior Mobile Apps Developer | Software Engineer | Computer Science Graduate</h3>
