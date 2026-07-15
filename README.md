@@ -71,13 +71,12 @@
 </div>
 
 - ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ByAhmadWalid&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihattab&layout=compact&theme=tokyonight)
 
- <img src="https://raw.githubusercontent.com/ByAhmadWalid/ByAhmadWalid/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ByAhmadWalid/ByAhmadWalid/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByAhmadWalid&theme=tokyo-night)](https://github.com/ByAhmadWalid)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fadihattab&theme=tokyo-night)](https://github.com/fadihattab)
 
 ---
 
