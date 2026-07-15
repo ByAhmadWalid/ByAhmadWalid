@@ -81,7 +81,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByAhmadWalid&theme=tokyo-night)](https://github.com/ByAhmadWalid)
 
 ---
-- ---
+
 
 
 ### Connect with me
@@ -99,7 +99,7 @@ Real-time weather application built with Flutter and REST APIs.
 
 🔗 https://github.com/DotHW/h03.git
 
----
+
 
 ### 🛒 MERN E-Commerce Store
 
@@ -107,7 +107,7 @@ Full-stack e-commerce application using MongoDB, Express, React, and Node.js.
 
 🔗 https://github.com/fadihattab/mern-store
 
----
+
 
 ### 🎓 Moodle LMS Platform
 
@@ -115,6 +115,6 @@ Customized Moodle learning management system with cloud deployment.
 
 🔗 https://github.com/fadihattab/moodle-project
 
----
+
 
 
