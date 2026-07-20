@@ -71,10 +71,10 @@
 </div>
 
 - ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByAhmadWalid&show_icons=true&theme=tokyonight) 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ByAhmadWalid&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByAhmadWalid&layout=compact&theme=tokyonight)
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByAhmadWalid&theme=tokyo-night)](https://github.com/ByAhmadWalid)
 
@@ -86,40 +86,13 @@
 ### Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/ahmadwalidofficial/
-- Website: https://yourwebsite.com
+
 - Email: ahmadwalidalshatarat@gmail.com
-  
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
+
   
 
-## Featured Projects
 
-### 📱 Flutter Weather App
 
-Real-time weather application built with Flutter and REST APIs.
 
-🔗 https://github.com/DotHW/h03.git
-
----
-
-### 🛒 MERN E-Commerce Store
-
-Full-stack e-commerce application using MongoDB, Express, React, and Node.js.
-
-🔗 https://github.com/fadihattab/mern-store
-
----
-
-### 🎓 Moodle LMS Platform
-
-Customized Moodle learning management system with cloud deployment.
-
-🔗 https://github.com/fadihattab/moodle-project
-
----
 
 
