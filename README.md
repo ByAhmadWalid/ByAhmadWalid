@@ -121,13 +121,14 @@
 
 ### Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/ahmadwalidofficial/
+- LinkedIn: https://www.linkedin.com/in/ahmadwalidofficial
 
 - Email: ahmadwalidalshatarat@gmail.com
 
   
-
-
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ByAhmadWalid)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahmadwalidofficial)
+[![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmadwalidalshatarat@gmail.com)
 
 
 
