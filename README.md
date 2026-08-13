@@ -105,7 +105,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
----
+
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ByAhmadWalid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -114,7 +114,6 @@
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ByAhmadWalid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByAhmadWalid&theme=tokyo-night&hide_border=true)](https://github.com/ByAhmadWalid)
----
 
 
 
