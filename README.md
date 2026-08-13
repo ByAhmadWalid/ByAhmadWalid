@@ -12,11 +12,11 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Computer Science Graduate passionate about building high-quality, user-centered software with clean architecture and maintainable code.
-  <br><br>
-  🚀 I specialize in Flutter and Android, with hands-on experience developing mobile applications, integrating REST APIs, and applying and modern software engineering practices.
-  <br><br>
-  🌱 I'm continuously expanding my knowledge in Software Engineering, Mobile Development, Web Development, and Cloud Computing while building projects that solve real-world problems.</p>
+💻 **Computer Science Graduate** passionate about building high-quality, user-centered software with clean architecture and maintainable code.
+
+🚀 I specialize in **Flutter and Android**, with hands-on experience developing mobile applications, integrating REST APIs, and applying modern software engineering practices.
+
+🌱 I'm continuously expanding my knowledge in **Software Engineering, Mobile Development, Web Development, and Cloud Computing** while building projects that solve real-world problems.
 
 ###
 
@@ -41,7 +41,6 @@
   <img width="12" />
 </div>
 
-<br />
 
 ### 🎨 Frontend
 <div align="left">
@@ -56,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
-<br />
 
 ### ⚙️ Backend
 <div align="left">
@@ -67,7 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
 </div>
 
-<br />
 
 ### 🗄️ Database
 <div align="left">
@@ -84,7 +81,6 @@
 
 </div>
 
-<br />
 
 ### ☁️ Cloud & DevOps
 <div align="left">
@@ -102,7 +98,6 @@
   <img width="12" />
 </div>
 
-<br />
 
 ### 🛠️ Other Tools
 <div align="left">
@@ -117,12 +112,13 @@
 
 - ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ByAhmadWalid&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ByAhmadWalid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByAhmadWalid&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ByAhmadWalid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByAhmadWalid&theme=tokyo-night)](https://github.com/ByAhmadWalid)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByAhmadWalid&theme=tokyo-night&hide_border=true)](https://github.com/ByAhmadWalid)
 ---
 
 
