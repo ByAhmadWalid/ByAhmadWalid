@@ -41,7 +41,6 @@
   <img width="12" />
 </div>
 
-
 ### 🎨 Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
@@ -55,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
-
 ### ⚙️ Backend
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
@@ -64,7 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
 </div>
-
 
 ### 🗄️ Database
 <div align="left">
@@ -81,7 +78,6 @@
 
 </div>
 
-
 ### ☁️ Cloud & DevOps
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
@@ -97,7 +93,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
 </div>
-
 
 ### 🛠️ Other Tools
 <div align="left">
