@@ -125,6 +125,8 @@
 
 - Email: ahmadwalidalshatarat@gmail.com
 
+- GitHub: https://github.com/ByAhmadWalid
+
   
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ByAhmadWalid)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahmadwalidofficial)
