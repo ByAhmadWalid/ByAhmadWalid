@@ -109,7 +109,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ByAhmadWalid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByAhmadWalid&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ByAhmadWalid&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ByAhmadWalid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -127,9 +127,10 @@
 - GitHub: https://github.com/ByAhmadWalid
 
   
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ByAhmadWalid)
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ahmadwalidofficial)
 [![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmadwalidalshatarat@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ByAhmadWalid)
 
 - ---
 
