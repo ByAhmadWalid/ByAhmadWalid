@@ -12,7 +12,7 @@
 
 ###
 
-💻 **Computer Science Graduate** passionate about building high-quality, user-centered software with clean architecture and maintainable code.
+💻 **Computer Science Graduate** passionate about building high-quality, user-centric software with clean architecture and maintainable code.
 
 🚀 I specialize in **Flutter and Android**, with hands-on experience developing mobile applications, integrating REST APIs, and applying modern software engineering practices.
 
