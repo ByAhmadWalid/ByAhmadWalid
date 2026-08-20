@@ -49,14 +49,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
-### ⚙️🗄️ Backend & Database
+### 🗄️ Backend & Database
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" /> 
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+     <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
   <img width="12" />
 </div>
 
