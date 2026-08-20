@@ -69,13 +69,12 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  
+   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+</div>
   <img width="12" />
-
 </div>
 
 ### ☁️ Cloud & DevOps
@@ -83,6 +82,8 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+      <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
@@ -90,8 +91,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
+
 </div>
 
 ### 🛠️ Other Tools
