@@ -4,7 +4,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Junior Mobile Apps Developer | Software Engineer | Computer Science Graduate</h3>
+<h3 data-importer="text" align="left">Junior Mobile Apps Developer | UI/UX Designer | Software Engineer | Computer Science Graduate</h3>
 
 ###
 
@@ -115,8 +115,92 @@
 [![Email](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmadwalidalshatarat@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ByAhmadWalid)
 
-- ---
+---
+## Featured Projects
+
+### 🌐 Locals Platform - Flutter Business Networking Mobile App 
+
+A cross-platform mobile networking platform engineered for graduation, bridging global enterprises with local Jordanian businesses to foster cross-border partnerships.
+
+Tech Stack: Flutter | Dart | Provider | MVC | Figma | Agile/Scrum
 
 
+🔗 
 
+---
 
+### 📸 Instagram UI Clone
+
+A pixel-perfect cross-platform mobile replica of the Instagram interface, crafted to deliver smooth user interactions, responsive navigation, and consistent visual fidelity across iOS and Android devices.
+
+Tech Stack: Flutter | Dart | Material Design 
+
+🔗 
+
+---
+
+### ✅ To-Do List App
+
+A structured task management mobile application built on scalable architectural patterns, enabling users to create, state handling, and delete tasks efficiently, and maintain productive task lifecycles with zero UI lag.
+
+Tech Stack: Flutter | Dart | Provider | MVC Architecture | State Management 
+
+🔗 
+
+---
+
+### 👾 Digimon Directory App
+
+A data-driven character exploration application providing instant access to fetch, manage, and display character data dynamically including names, levels, and images via seamless remote API integration.
+
+Tech Stack: Flutter | Dart | RESTful APIs | Dio | Provider | MVC Architecture
+🔗 
+
+---
+
+### 🌦️ Weather App
+
+A responsive weather tracking app that delivers live local conditions and multi-city forecasts using GPS and real-time meteorological data.
+
+Tech Stack: Flutter | Dart | Provider | Dio | OpenWeatherMap API | Geolocator | MVC
+
+🔗 
+
+---
+
+### 🎯 CRM Training Website
+
+A centralized onboarding website created to help new hires learn CRM workflows quickly on their own.
+
+Tech Stack: HTML5 | CSS3 | JavaScript (ES6+) | React | Netlify
+
+🔗 
+
+---
+
+### 📒 QPP E-Commerce Store
+
+A modern online storefront redesign focused on clean visual merchandising and smooth shopping interactions.
+
+Tech Stack: HTML5 | CSS3 | JavaScript (ES6+) | React | Netlify
+
+🔗 
+
+---
+
+### 🏋️ Coach Me App
+
+A comprehensive personal fitness discovery and reservation application connecting clients with vetted fitness coaches across multiple disciplines through a mobile-first interface.
+
+Tech Stack: Flutter | Dart | Bloc | Figma
+
+🔗 
+
+---
+### 🍦 Dolcini shop menu
+
+A mobile-friendly digital menu web app built for fast QR-code scanning and smooth browsing in-store.
+
+Tech Stack: HTML5 | CSS3 | JavaScript (ES6+) | React | Netlify
+
+🔗 
